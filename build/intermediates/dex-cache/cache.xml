@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/admin/Desktop/Nubium Repos/Nubium-Messaging-Android/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-2fde38a3cc244c8921c5adb4b1cacbae95544dfc.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Desktop/Nubium Repos/Nubium-Messaging-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/admin/Desktop/Nubium Repos/Nubium-Messaging-Android/app/build/intermediates/pre-dexed/debug/classes-3ce3cf3a357c2167e63820781913758f2b4cb1a9.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Desktop/Nubium Repos/Nubium-Messaging-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/admin/Desktop/Nubium Repos/Nubium-Messaging-Android/app/build/intermediates/pre-dexed/debug/classes-0eccabd4b8103431ab101ea254a9e881449c2e70.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Desktop/Nubium Repos/Nubium-Messaging-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/admin/Desktop/Nubium Repos/Nubium-Messaging-Android/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-2135695c8022bf7dd05ec70c8ba1505bb025972d.jar" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/admin/Desktop/Nubium Repos/Nubium-Messaging-Android/app/build/intermediates/pre-dexed/debug/json-simple-1.1-40552231625ad22fe6065e4d5e841520a2cdabb9.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Desktop/Nubium Repos/Nubium-Messaging-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="/Users/admin/Desktop/Nubium Repos/Nubium-Messaging-Android/app/build/intermediates/pre-dexed/debug/classes-4d6b585ce877df3ce098789c7dab3b4517edfcd7.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Desktop/Nubium Repos/Nubium-Messaging-Android/app/build/intermediates/exploded-aar/Nubium-Messaging-Android/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3f4d8bd1ea5e910defa1f6317b75de2b3dd622da">
+        <dex dex="/Users/admin/Desktop/Nubium Repos/Nubium-Messaging-Android/app/build/intermediates/pre-dexed/debug/classes-0e45b9ab6c5a7e507258cfde1360dc7c041a97c2.jar" />
+    </item>
+
+</items>
